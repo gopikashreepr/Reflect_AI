@@ -48,7 +48,7 @@ ReflectAI is a Streamlit-based AI mental wellness companion that lets users shar
 ---
 
 ##  Customization Ideas
-|-------------|----------------------------------------------------|
+
 | Feature     | Customization                                      |
 |-------------|----------------------------------------------------|
 | NLP Model   | Swap to RoBERTa, DistilBERT, or local LLM          |
@@ -56,7 +56,6 @@ ReflectAI is a Streamlit-based AI mental wellness companion that lets users shar
 | Charts      | Add weekly/monthly breakdown                       |
 | Voice Input | Use `speech_recognition` or Whisper                |
 | Cloud       | Deploy with Render, Heroku, or Hugging Face Spaces |
-|-------------|----------------------------------------------------|
 
 ---
 
