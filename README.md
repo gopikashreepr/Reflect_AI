@@ -18,7 +18,7 @@ ReflectAI is a Streamlit-based AI mental wellness companion that lets users shar
 ---
 
 ##  Tech Stack
-|--------------|---------------------------------------------------------------------|
+
 | Layer        | Technology                                                          |
 |--------------|---------------------------------------------------------------------|
 | Frontend     | Streamlit (or React, optional)                                      |
@@ -27,7 +27,6 @@ ReflectAI is a Streamlit-based AI mental wellness companion that lets users shar
 | Data Storage | SQLite (or MySQL)                                                   |
 | Visuals      | Plotly, Matplotlib                                                  |
 | Libraries    | `transformers`, `pandas`, `requests`, `TextBlob`, `VaderSentiment`  |
-|--------------|---------------------------------------------------------------------|
 
 ##  How It Works
 
