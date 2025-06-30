@@ -7,17 +7,17 @@ ReflectAI is a Streamlit-based AI mental wellness companion that lets users shar
 
 ---
 
-## 🚀 Key Features
+##  Key Features
 
-- 💬 **Emotion-Aware Chat Interface** – Talk to the chatbot and receive real-time emotional feedback.
-- 🧠 **AI-Powered Emotion Detection** – BERT-based classification (GoEmotions dataset).
-- 🧘 **Personalized Self-Care Tips** – Based on detected emotions (quotes, music, breathing links).
-- 🕓 **Mood Trend Graphs** – Visualize emotions over time using Plotly and Matplotlib.
-- 🗃️ **Chat History Logging** – SQLite-based message + emotion + timestamp log.
-- 🎛️ **Filter by Emotion** – View only “sad”, “happy”, or other emotion categories.
+-  **Emotion-Aware Chat Interface** – Talk to the chatbot and receive real-time emotional feedback.
+-  **AI-Powered Emotion Detection** – BERT-based classification (GoEmotions dataset).
+-  **Personalized Self-Care Tips** – Based on detected emotions (quotes, music, breathing links).
+-  **Mood Trend Graphs** – Visualize emotions over time using Plotly and Matplotlib.
+-  **Chat History Logging** – SQLite-based message + emotion + timestamp log.
+-  **Filter by Emotion** – View only “sad”, “happy”, or other emotion categories.
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 |--------------|---------------------------------------------------------------------|
 | Layer        | Technology                                                          |
 |--------------|---------------------------------------------------------------------|
@@ -29,7 +29,7 @@ ReflectAI is a Streamlit-based AI mental wellness companion that lets users shar
 | Libraries    | `transformers`, `pandas`, `requests`, `TextBlob`, `VaderSentiment`  |
 |--------------|---------------------------------------------------------------------|
 
-## 📈 How It Works
+##  How It Works
 
 1. User types a thought or message.
 2. BERT-based model analyzes the emotion.
@@ -39,16 +39,16 @@ ReflectAI is a Streamlit-based AI mental wellness companion that lets users shar
 
 ---
 
-## 🎯 Use Cases
+##  Use Cases
 
-- 🧑‍🎓 Students journaling and tracking mental health
-- 🧘 Anyone wanting to reflect on their emotional patterns
-- 🧪 Developers exploring NLP & sentiment analysis
-- 🧑‍⚕️ Counselors interested in anonymized emotional data trends
+-  Students journaling and tracking mental health
+-  Anyone wanting to reflect on their emotional patterns
+-  Developers exploring NLP & sentiment analysis
+-  Counselors interested in anonymized emotional data trends
 
 ---
 
-## 🔧 Customization Ideas
+##  Customization Ideas
 |-------------|----------------------------------------------------|
 | Feature     | Customization                                      |
 |-------------|----------------------------------------------------|
@@ -61,13 +61,13 @@ ReflectAI is a Streamlit-based AI mental wellness companion that lets users shar
 
 ---
 
-## ⚠️ Disclaimer
+##  Disclaimer
 
 > This project is for **educational and awareness** purposes only. It is **not a substitute** for professional mental health care.
 
 ---
 
-## 👩‍💻 Author
+##  Author
 
 **Gopikashree PR**  
 Aspiring AI & Data Science Final Year Student 
@@ -75,7 +75,7 @@ GitHub: [@gopikashreepr](https://github.com/gopikashreepr)
 
 ---
 
-## 💡 Want to contribute?
+##  Want to contribute?
 
 Feel free to fork, suggest enhancements, or open an issue!
 
